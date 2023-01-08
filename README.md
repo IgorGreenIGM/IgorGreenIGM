@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **IgorGreenIGM/IgorGreenIGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi there 👋, I am Igor</h2>
+<h2 align="left">Hi there 👋, I am Igor</h2>
 
 <p align="center">French student in <a href="https://polytechnique.cm/">ENSPY</a>, big fan of coding & technology, always looking for something funny to code 💻. </p>
 
