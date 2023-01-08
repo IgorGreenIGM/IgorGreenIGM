@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi there 👋, I am Igor</h2>
 
-<p align="center">French student in <a href="https://polytechnique.cm/">ENSPY</a>, big fan of coding & technology, always looking for something funny to code 💻. </p>
+<p align="left">French student in <a href="https://polytechnique.cm/">ENSPY</a>, big fan of coding & technology, always looking for something funny to code 💻. </p>
+
 
 
 - :book: Take a look at my <a href="https://github.com/IgorGreenIGM?tab=repositories">Portfolio</a>
@@ -33,6 +34,16 @@ Here are some ideas to get you started:
 </a> 
 
 <h4 align="left">Languages and Tools</h4>
+
+<!-- C++ -->
+<a href="https://isocpp.org/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++"/> 
+</a> 
+
+<!-- C -->
+<a href="https://www.cprogramming.com/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/> 
+</a> 
 
 <!-- Java -->
 <a href="https://www.java.com/en/" target="_blank"> 
@@ -54,10 +65,22 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40"/> 
 </a> 
 
+<!-- Unity -->
 <a href="https://unity.com/" target="_blank"> 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" alt="unity" width="40" height="40"/> 
 </a> 
 
+<!-- Unreal Engine -->
+<a href="https://https://www.unrealengine.com/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="unreal Engine" width="40" height="40"/> 
+</a> 
+
+<!-- Photoshop -->
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/> 
+</a> 
+
+<!-- blender -->
 <a href="https://www.blender.org/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" alt="Blender" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" alt="Blender"/> 
 </a> 
