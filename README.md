@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi there 👋, I am Igor</h2>
 
-<p align="center">French student in <a href="https://polytechnique.cm/">UTBM</a>, big fan of coding & technology, always looking for something funny to code 💻. </p>
+<p align="center">French student in <a href="https://polytechnique.cm/">ENSPY</a>, big fan of coding & technology, always looking for something funny to code 💻. </p>
 
 
-- :book: Take a look at my <a href="https://github.com/IgorGreenIGM?tab=repositories">Portfolio</a> (Beta)
+- :book: Take a look at my <a href="https://github.com/IgorGreenIGM?tab=repositories">Portfolio</a>
 
 <h4 align="left">Connect with me</h4>
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!-- Gmail -->
 <a href="mailto:igormogou86@gmail.com" target="_blank">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Gmail_logo.png?20201023123349" alt="css3" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Gmail_logo.png?20201023123349" alt="css3"/> 
 </a> 
 
 <h4 align="left">Languages and Tools</h4>
