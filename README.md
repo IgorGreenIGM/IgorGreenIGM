@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- C++ -->
 <a href="https://isocpp.org/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/> 
 </a> 
 
 <!-- C -->
@@ -82,5 +82,5 @@ Here are some ideas to get you started:
 
 <!-- blender -->
 <a href="https://www.blender.org/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" alt="Blender"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" alt="Blender" width="60" height="40"/> 
 </a> 
