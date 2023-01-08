@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- Stakcoverflow  -->
 <a href="https://stackoverflow.com/users/19371480/igor-mogou" target="_blank">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="css3"  height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="css3" width="40" height="40"/> 
 </a> 
 
 <!-- Gmail -->
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- C++ -->
 <a href="https://isocpp.org/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/> 
 </a> 
 
 <!-- C -->
@@ -82,5 +82,5 @@ Here are some ideas to get you started:
 
 <!-- blender -->
 <a href="https://www.blender.org/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" width="30" height="40" alt="Blender"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> 
 </a> 
