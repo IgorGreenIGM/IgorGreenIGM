@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi there 👋, I am Igor</h2>
 
-<p align="left">French student in <a href="https://polytechnique.cm/">ENSPY</a>, big fan of coding & technology, always looking for something funny to code 💻. </p>
+<p align="left">Cameroonian student in <a href="https://polytechnique.cm/">ENSPY</a>, big fan of coding & technology, always looking for something funny to code 💻. </p>
 
 
 
