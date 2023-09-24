@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Gmail_logo.png?20201023123349" alt="css3"/> 
 </a> 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgorGreenIGM&layout=compact)](_)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGreenIGM&layout=compact&theme=default&count_private=true)](_)
-
 <h4 align="left">Languages and Tools</h4>
 
 <!-- C++ -->
