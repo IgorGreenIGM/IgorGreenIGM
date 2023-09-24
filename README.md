@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Gmail_logo.png?20201023123349" alt="css3"/> 
 </a> 
 
+
+[![@IgorGreenIGM's github stats](https://github-readme-stats.vercel.app/api?username=IgorGreenIGM&show_icons=true&theme=github_dark)](_)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGreenIGM&layout=compact&theme=github_dark&count_private=true)](_)
+
 <h4 align="left">Languages and Tools</h4>
 
 <!-- C++ -->
