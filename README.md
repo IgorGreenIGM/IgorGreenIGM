@@ -11,7 +11,7 @@
 
 <!-- Gmail -->
 <a href="mailto:igormogou86@gmail.com" target="_blank">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1024px-Gmail_Icon_%282013-2020%29.svg.png?20220204194709" alt="mail" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="mail" height="40"/> 
 </a> 
 
 <h4 align="left">⚡Stats</h4>
@@ -19,9 +19,9 @@
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=IgorGreenIGM&show_icons=true&theme=github_dark&&hide_border=true"> 
 <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorGreenIGM&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="IgorGreenIMG's github streak stats"> 
 <p>
-<br>
 
-<h4 align="left">⚙️Languages and Tools</h4>
+
+<h4 align="left"><br>⚙️Languages and Tools</h4>
 <p align="left"> 
 
 [![Main Language](https://img.shields.io/badge/prefered%20Language-C++-white?logo=cplusplus)](https://isocpp.org/)
