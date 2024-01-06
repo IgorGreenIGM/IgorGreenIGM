@@ -14,16 +14,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="mail" height="40"/> 
   </a> 
   
-  <h4 align="left">⚡Stats</h4>
-  
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=IgorGreenIGM&show_icons=true&theme=github_dark&&hide_border=true"> 
-  <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorGreenIGM&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="IgorGreenIMG's github streak stats"/> <br><br>
-  
-  
-<h4 align="left">⚙️Languages and Tools</h4>
+  <h4 align="left">⚙️Languages and Tools</h4>
 
 [![Main Language](https://img.shields.io/badge/prefered%20Language-C++-white?logo=cplusplus)](https://isocpp.org/)
 [![3D](https://img.shields.io/badge/VFX/3D-Blender-informational?style=flat&logo=blender&logoColor=orange&color=f86604)](https://www.blender.org/)
 [![Photo Editing](https://img.shields.io/badge/photo-Photoshop-blue?style=flat&logo=adobephotoshop&color=blue)](https://www.adobe.com/fr/products/photoshop.html)
 [![Video Editing](https://img.shields.io/badge/editing-Adobe%20AfterEffects-blue?style=flat&logo=adobeaftereffects&color=c500ff)](https://www.adobe.com/fr/products/aftereffects.html)
 [![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=lightblue&color=blue)](https://code.visualstudio.com/)
+
+  <h4 align="left">⚡Stats</h4>
+  
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=IgorGreenIGM&show_icons=true&theme=github_dark&&hide_border=true"> 
+  <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorGreenIGM&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="IgorGreenIMG's github streak stats"/> <br><br>
