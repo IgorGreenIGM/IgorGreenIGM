@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋, I am Green</h2>
 
-<p align="left"><a href="https://polytechnique.cm/">ENSPY</a> Student, decoding lectures by day and crafting precise code by night. Fueled by coffee and curiosity. Let's collaborate for coding excellence. 💻🌐</p>
+<p align="left"><a href="https://polytechnique.cm/">ENSPY</a> Student, decoding lectures by day and crafting precise code by night. Fueled by coffee and curiosity. <br>Let's collaborate for coding excellence. 💻🌐</p>
 
 <h4 align="left">Connect with me</h4>
 
@@ -17,7 +17,7 @@
 <h4 align="left">⚡Stats</h4>
 <p align="left"> 
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=IgorGreenIGM&show_icons=true&theme=github_dark&&hide_border=true"> 
-<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorGreenIGM&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
+<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorGreenIGM&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="IgorGreenIMG's github streak stats"> 
 <p>
 <br>
 
