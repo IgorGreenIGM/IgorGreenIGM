@@ -1,86 +1,32 @@
-<!--
-**IgorGreenIGM/IgorGreenIGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Hi there 👋, I am Green</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="left">Hi there 👋, I am Igor</h2>
-
-<p align="left">Cameroonian student in <a href="https://polytechnique.cm/">ENSPY</a>, big fan of coding & technology, always looking for something funny to code 💻. </p>
-
-
-
-- :book: Take a look at my <a href="https://github.com/IgorGreenIGM?tab=repositories">Portfolio</a>
+<p align="left"><a href="https://polytechnique.cm/">ENSPY</a> Student, decoding lectures by day and crafting precise code by night. Fueled by coffee and curiosity. Let's collaborate for coding excellence. 💻🌐</p>
 
 <h4 align="left">Connect with me</h4>
 
-<!-- Stakcoverflow  -->
-<a href="https://stackoverflow.com/users/19371480/igor-mogou" target="_blank">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="css3" width="40" height="40"/> 
-</a> 
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/igor-green-mogou-062876267/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
+</a>&nbsp;
 
 <!-- Gmail -->
 <a href="mailto:igormogou86@gmail.com" target="_blank">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Gmail_logo.png?20201023123349" alt="css3"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1024px-Gmail_Icon_%282013-2020%29.svg.png?20220204194709" alt="mail" height="40"/> 
 </a> 
 
-<h4 align="left">Languages and Tools</h4>
+<h4 align="left">⚡Stats</h4>
+<p align="left"> 
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=IgorGreenIGM&show_icons=true&theme=github_dark&&hide_border=true"> 
+<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorGreenIGM&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
+<p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<!-- C++ -->
-<a href="https://isocpp.org/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/> 
-</a> 
+<h4 align="left">⚙️Languages and Tools</h4>
+<p align="left"> 
 
-<!-- C -->
-<a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/> 
-</a> 
-
-<!-- Java -->
-<a href="https://www.java.com/en/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-</a> 
-
-<!-- Python -->
-<a href="https://www.python.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-</a> 
-
-<!-- mySQL -->
-<a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="mySQL" width="40" height="40"/> 
-</a> 
-
-<!-- JS -->
-<a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40"/> 
-</a> 
-
-<!-- Unity -->
-<a href="https://unity.com/" target="_blank"> 
-<img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" alt="unity" width="40" height="40"/> 
-</a> 
-
-<!-- Unreal Engine -->
-<a href="https://https://www.unrealengine.com/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="unreal Engine" width="40" height="40"/> 
-</a> 
-
-<!-- Photoshop -->
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/> 
-</a> 
-
-<!-- blender -->
-<a href="https://www.blender.org/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> 
-</a> 
+[![Main Language](https://img.shields.io/badge/prefered%20Language-C++-white?logo=cplusplus)](https://isocpp.org/)
+[![3D](https://img.shields.io/badge/VFX/3D-Blender-informational?style=flat&logo=blender&logoColor=orange&color=f86604)](https://www.blender.org/)
+[![Photo Editing](https://img.shields.io/badge/photo-Photoshop-blue?style=flat&logo=adobephotoshop&color=blue)](https://www.adobe.com/fr/products/photoshop.html)
+[![Video Editing](https://img.shields.io/badge/editing-Adobe%20AfterEffects-blue?style=flat&logo=adobeaftereffects&color=c500ff)](https://www.adobe.com/fr/products/aftereffects.html)
+[![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=lightblue&color=blue)](https://code.visualstudio.com/)
+</p>
