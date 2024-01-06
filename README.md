@@ -20,7 +20,7 @@
   <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorGreenIGM&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="IgorGreenIMG's github streak stats"> 
   
   
-  <h4 align="left"><br>⚙️Languages and Tools</h4>
+<h4 align="left"><br>⚙️Languages and Tools</h4>
   
   <p align="left"> 
   
