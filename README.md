@@ -25,4 +25,4 @@
   <h4 align="left">⚡Stats</h4>
   
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=IgorGreenIGM&show_icons=true&theme=github_dark&&hide_border=true"> 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IgorGreenIGM&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=IgorGreenIGM&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 50%" />
