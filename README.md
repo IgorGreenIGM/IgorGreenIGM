@@ -24,6 +24,6 @@
 
   <h4 align="left">⚡Stats</h4>
   
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=IgorGreenIGM&show_icons=true&theme=codeSTACKr&&hide_border=true"> 
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=IgorGreenIGM&show_icons=true&theme=codeSTACKr"> 
   <img src="https://streak-stats.demolab.com?user=IgorGreenIGM&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 50%" />
 <img src="https://hit.yhype.me/github/profile?user_id=107557907" />
